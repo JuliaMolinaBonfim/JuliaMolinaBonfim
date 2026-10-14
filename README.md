@@ -6,7 +6,6 @@
 
 <br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=JuliaMolinaBonfim&style=flat-square&color=FF4FA3&label=VISITAS)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0d0221)
 ![Local](https://img.shields.io/badge/CURITIBA-BRASIL-FF4FA3?style=flat-square&labelColor=0d0221)
 [![Email](https://img.shields.io/badge/CONTATO-juliabonmo%40gmail.com-FF4FA3?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0221)](mailto:juliabonmo@gmail.com)
@@ -132,24 +131,15 @@ roadmap_2026:
 
 <img src="https://streak-stats.demolab.com/?user=JuliaMolinaBonfim&theme=radical&hide_border=true&background=0d0221&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF4FA3" width="65%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuliaMolinaBonfim&theme=react-dark&bg_color=0d0221&color=FF4FA3&line=FF4FA3&point=ffffff&hide_border=true&area=true" width="95%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JuliaMolinaBonfim&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-
 </div>
 
 <br/>
 
 <div align="center">
 
-```text
-> "Todo grande sistema começa com uma única linha de código."
-> exit 0 💗
-```
+<i>"Todo grande sistema começa com uma única linha de código."</i> 💗
+
+<code>exit 0</code>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fa3,50:6e1e56,100:0d0221&height=120&section=footer"/>
 
